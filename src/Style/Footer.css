@@ -1,0 +1,104 @@
+.black {
+    /* background-color: black; */
+    height: 500px;
+    width: 100%px;
+    margin-top: 70px;
+    /* background-color: rgb(3 13 9); */
+    background-color: black;
+}
+
+.Ashwini {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.ash1 {
+    color: white;
+}
+
+.ash2 {
+    color: white;
+}
+
+.instagram {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+}
+
+.gram {
+    color: gray;
+    border-radius: 30px;
+    height: 27px;
+    width: 29px;
+    border: 1px solid gray;
+    padding-left: 13px;
+    padding-top: 12px;
+    font-size: 18px;
+}
+
+.ash22 {
+    color: gray;
+}
+
+.ash2222 {
+    color: #d4d0d0;
+    margin-top: 24px;
+}
+
+.ash2211 {
+    color: #d4d0d0;
+    margin-top: 7px;
+}
+
+.ash2233 {
+    color: #d4d0d0;
+    margin-top: 7px;
+}
+
+.ash2244 {
+    color: #d4d0d0;
+    margin-top: 29px;
+}
+
+.ash2255 {
+    color: #d4d0d0;
+    margin-top: 7px;
+}
+
+.greenbox {
+    background-color: #2631263d;
+    height: 95px;
+    width: 1243px;
+    margin-top: 62px;
+    margin-left: 83px;
+}
+
+.mywebAll {
+    color: white;
+    text-align: center;
+    padding-top: 19px;
+    font-family: system-ui;
+}
+
+.policy {
+    color: white;
+    font-weight: 700;
+}
+
+.mywebAll1 {
+    color: white;
+    text-align: center;
+    padding-top: 1px;
+    font-family: system-ui;
+    font-size: 14px;
+}
+
+.made1 {
+    color: rgb(18, 167, 125);
+}
+
+.phone11 {
+    font-weight: 700;
+}

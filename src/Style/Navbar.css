@@ -1,0 +1,95 @@
+    /* import myImage from './assets/hero-bg.jpg'; */
+    
+    .box {
+        display: flex;
+        justify-content: space-evenly;
+        height: 100vh;
+        padding-top: 17px;
+        margin-top: 0px;
+        background-color: rgb(7 12 16 / 78%);
+        height: 40px;
+        margin: 0;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+    
+    .h6 {
+        margin-top: 0px;
+        color: White;
+        font-size: 29px;
+        font-weight: 800;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: -10px;
+    }
+    
+    .l1 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+        margin-left: 441px;
+    }
+    
+    .l2 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l3 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l4 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l5 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l6 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l7 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .l8 {
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+        margin-right: 37px;
+    }
+    
+    .drop1 {
+        background-color: transparent !important;
+        border: none;
+        font-size: 18px;
+        color: white;
+    }
+    
+    .drop {
+        background-color: transparent !important;
+        border: none;
+    }
+    
+    .mega1 {
+        background-color: transparent !important;
+        border: none;
+        font-size: 18px;
+        color: white;
+    }
