@@ -17,9 +17,9 @@ import illu1 from "../assets/illu1.webp";
 import { BsLightningCharge } from "react-icons/bs";
 import { FaQuoteLeft } from "react-icons/fa";
 import { FaQuoteRight } from "react-icons/fa";
-import person9 from '../assets/person9.webp'
-import person5 from '../assets/person5.webp'
-import person12 from '../assets/person12.webp'
+import person9 from "../assets/person9.webp";
+import person5 from "../assets/person5.webp";
+import person12 from "../assets/person12.webp";
 
 function Services() {
   return (
@@ -364,39 +364,42 @@ function Services() {
       <div className="Red">
         <div className="re1">
           <p className="re11">
-            <FaQuoteLeft className="faq"/> Proin iaculis purus consequat sem cure digni
+            <FaQuoteLeft className="faq" /> Proin iaculis purus consequat sem
+            cure digni
             <br /> ssim donec porttitora entum suscipit rhoncus.
             <br /> Accusantium quam, ultricies eget id, aliquam eget <br />
-            nibh et. Maecen aliquam, risus at semper. <FaQuoteRight className="faq"/>
-          
+            nibh et. Maecen aliquam, risus at semper.{" "}
+            <FaQuoteRight className="faq" />
           </p>
-            <img src={person9} alt="no" className="person1"/>
-            <h3 className="sara">Saul Goodman</h3>
-            <span className="ceo1">Ceo and Founder</span>
+          <img src={person9} alt="no" className="person1" />
+          <h3 className="sara">Saul Goodman</h3>
+          <span className="ceo1">Ceo and Founder</span>
         </div>
         <div className="re1">
-           <p className="re11">
-            <FaQuoteLeft className="faq"/> Proin iaculis purus consequat sem cure digni
+          <p className="re11">
+            <FaQuoteLeft className="faq" /> Proin iaculis purus consequat sem
+            cure digni
             <br /> ssim donec porttitora entum suscipit rhoncus.
             <br /> Accusantium quam, ultricies eget id, aliquam eget <br />
-            nibh et. Maecen aliquam, risus at semper. <FaQuoteRight className="faq"/>
-          
+            nibh et. Maecen aliquam, risus at semper.{" "}
+            <FaQuoteRight className="faq" />
           </p>
-            <img src={person5} alt="no" className="person1"/>
-            <h3 className="sara">Sara Wilson</h3>
-            <span className="ceo">Designer</span>
+          <img src={person5} alt="no" className="person1" />
+          <h3 className="sara">Sara Wilson</h3>
+          <span className="ceo">Designer</span>
         </div>
         <div className="re1">
-           <p className="re11">
-            <FaQuoteLeft className="faq"/> Proin iaculis purus consequat sem cure digni
+          <p className="re11">
+            <FaQuoteLeft className="faq" /> Proin iaculis purus consequat sem
+            cure digni
             <br /> ssim donec porttitora entum suscipit rhoncus.
             <br /> Accusantium quam, ultricies eget id, aliquam eget <br />
-            nibh et. Maecen aliquam, risus at semper. <FaQuoteRight className="faq"/>
-          
+            nibh et. Maecen aliquam, risus at semper.{" "}
+            <FaQuoteRight className="faq" />
           </p>
-            <img src={person12} alt="no" className="person1"/>
-            <h3 className="sara">Matt Brandon</h3>
-            <span className="ceo">Freelancer</span>
+          <img src={person12} alt="no" className="person1" />
+          <h3 className="sara">Matt Brandon</h3>
+          <span className="ceo">Freelancer</span>
         </div>
       </div>
     </>

@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Megamenu() {
-  return (
-    <div>Megamenu</div>
-  )
+  return <div>Megamenu</div>;
 }
 
-export default Megamenu
+export default Megamenu;
